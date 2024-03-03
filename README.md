@@ -24,5 +24,5 @@ A Postgres SQL database was used to store satellite information, such as name, i
 An Express based Rest API was used to interface between the frontend and the database.
 API calls were made to n2yo.com to get updated satellite tracking information. 
 
-#Usage
+# Usage
 Run `docker compose up` in the root directory!
